@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thilakreddyy/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)])
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)
 
 ## About Me
 
