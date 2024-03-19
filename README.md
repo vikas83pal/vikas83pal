@@ -23,7 +23,7 @@ Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
 ## GitHub stats
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FFFFFF" align="center" /></div> 
 
 
 Feel free to connect with me. 
