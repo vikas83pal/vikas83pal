@@ -17,7 +17,7 @@ Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
 ## Connect with Me
 
 - LinkedIn: [(https://www.linkedin.com/in/vikas-pal-b91067254/)]
-- Instagram : [](https://www.instagram.com/mr.maddy.786/)]
+- Instagram : [(https://www.instagram.com/mr.maddy.786/)]
 - Website: [(https://vikas83pal.github.io/portfolio.github.io/)]
 
 Feel free to connect with me. 
