@@ -11,7 +11,7 @@ Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
 ## Skills
 
 - Programming Languages: Python, C, C++, Java, JavaScript, C#.
-- Frameworks and Technologies: Django, NodeJs,React js, Next js.
+- Frameworks and Technologies: Bootstrap, Django, NodeJs,React js, Next js.
 - Other Skills: Git, Github, Problem Solving.
 
 ## Connect with Me
