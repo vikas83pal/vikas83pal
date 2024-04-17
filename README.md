@@ -35,7 +35,7 @@ You can view my HackerRank profile [here](https://www.hackerrank.com/profile/vik
 
 
 
-Feel free to connect with me. 
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vikas83pal&&style=flat-square" align="center" />
