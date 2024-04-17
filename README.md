@@ -27,7 +27,8 @@ Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
 
 ## LeetCode Stats
 
-<div align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/vikas83pal?theme=unicorn&font=Abel)</div>
+<div align="center"><img src="https://leetcard.jacoblin.cool/vikas83pal?theme=unicorn&font=Abel" alt="LeetCode Stats"></div>
+
 
 
 Feel free to connect with me. 
