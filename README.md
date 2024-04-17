@@ -25,8 +25,14 @@ Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FFFFFF" align="center" /></div> 
 
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikas83pal?theme=unicorn&font=Abel)
+
+## HackerRank Stats
+
+![HackerRank Stats](https://metrics.lecoq.io/vikas83pal)
+
 
 Feel free to connect with me. 
 
