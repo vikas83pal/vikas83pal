@@ -1,43 +1,84 @@
-# Welcome to My GitHub Profile!
+
+# Welcome to My GitHub Profile! 👾💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikas-pal-b91067254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mr_maddy.786/)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)](https://vikasportfolio.vercel.app/)
 
-## About Me
+```plaintext
+     _    _      _     _______        _    _  ____      _    
+    | |  | |    | |   |__   __|      | |  | ||  _ \    | |   
+    | |  | | ___| | __   | | ___  ___| | _| || |_) | __| |   
+    | |  | |/ _ \ |/ /   | |/ _ \/ __| |/ / ||  _ < / _` |   
+    | |__| |  __/   <    | |  __/\__ \   <| || |_) | (_| |   
+     \____/ \___|_|\_\   |_|\___||___/_|\_\_||____/ \__,_|   
+```      
 
-Hi there! I'm Vikas Pal, a passionate Developer from Telangana, India
+## 👤 About Me
 
-## Skills
+Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
-- Programming Languages: Python, C, C++, Java, JavaScript, C#.
-- Frameworks and Technologies: Bootstrap, Django, NodeJs,React js, Next js.
-- Other Skills: Git, Github, Problem Solving.
+```plaintext
+ > User: Vikas Pal
+ > Location: Telangana, India
+ > Skillset: Code Magician | Cyber Explorer | Problem Slayer
+```
 
-## Connect with Me
+---
 
-- LinkedIn: [(https://www.linkedin.com/in/vikas-pal-b91067254/)]
-- Instagram : [(https://www.instagram.com/mr.maddy.786/)]
-- Website: [(https://vikasportfolio.vercel.app)]
+## ⚙️ Skills & Technologies
 
-## GitHub stats
+```plaintext
+> Languages: Python, C, C++, Java, JavaScript, C#
+> Frameworks: Django, React, Next.js, Node.js, Bootstrap
+> Tools: Git, GitHub, VS Code, Problem Solving
+> Special Ops: Full-stack Developer | AI/ML Explorer
+```
 
+---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FFFFFF" align="center" /></div> 
+## ⚡ Connect with Me
 
-## LeetCode Stats
+- 💼 LinkedIn: [Vikas Pal](https://www.linkedin.com/in/vikas-pal-b91067254/)
+- 📸 Instagram: [mr_maddy.786](https://www.instagram.com/mr_maddy.786/)
+- 🌐 Website: [vikasportfolio.vercel.app](https://vikasportfolio.vercel.app/)
 
-<div align="center"><img src="https://leetcode.com/u/DDP4LBBXnJ/" alt="LeetCode Stats"></div>
+---
 
-## HackerRank Profile
+## 💻 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FFFFFF" />
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+```plaintext
+Initializing LeetCode data...
+> Hack the planet.
+```
+
+<div align="center">
+  <img src="DIRECT_LINK_TO_LEETCODE_IMAGE" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🎯 HackerRank Profile
 
 You can view my HackerRank profile [here](https://www.hackerrank.com/profile/vikas83pal).
 
-
-
-
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vikas83pal&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=vikas83pal&&style=flat-square" />
+</div>
+
+---
+
+```plaintext
+System check complete. Profile is now secure. ⚡
+```
+
