@@ -27,7 +27,7 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ```plaintext
 > Programming Languages: C, C++, Java, JavaScript
-> Frameworks and Technologies: NodeJs, SpringBoot, React js, Next js, Tailwind css
+> Frameworks and Technologies: NodeJs, React js, Next js, Tailwind css
 > Other Skills: Git, Github, Problem Solving, Googling
 > Special Ops: Full-stack Developer | Coding Enthusiasm
 ```
