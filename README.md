@@ -58,6 +58,10 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ---
 
+### LeetCode Stats
+![LeetCode Stats Card](https://leetcode-stats-card.vercel.app/api?username=u/DDP4LBBXnJ)
+
+
 ```plaintext
 System check complete. Profile is now secure. ⚡
 ```
