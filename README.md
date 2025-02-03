@@ -1,5 +1,5 @@
-## 127.0.0.1
-# Welcome to My GitHub Profile! 👾💻
+
+# Welcome to My GitHub Profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikas-pal-b91067254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mr_maddy.786/)
