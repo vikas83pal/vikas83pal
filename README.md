@@ -28,7 +28,7 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ```plaintext
 > Programming Languages: C, C++, Java, Python, JavaScript
-> Frameworks and Technologies: React.js, Next.js, Tailwind CSS, Spring Boot, WebSocket
+> Frameworks and Technologies: React.js, Tailwind CSS, Spring Boot, WebSocket
 > Tools & Platforms: Git, GitHub, Docker, Kubernetes, Jenkins, Apache Kafka, Postman, Figma
 > Databases: SQL, MongoDB
 > Special Ops: Full-Stack Developer | AI/ML Enthusiast | Problem Solver
@@ -88,10 +88,6 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ---
 
-### 🏆 LeetCode Stats
-![LeetCode Stats Card](https://leetcode-stats-card.vercel.app/api?username=u/vikas83pal)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vikas83pal&&style=flat-square" />
