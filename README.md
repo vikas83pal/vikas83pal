@@ -38,41 +38,47 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ## 🚀 Projects
 
+### 🔹 AI-Powered Chatbot
+**Tech Stack:** Python, Hugging Face Transformers, Flask, Ngrok  
+- Built a chatbot using **GPT-2** and fine-tuned it with a custom dataset.  
+- Deployed the backend on **Hugging Face Spaces** and exposed an API using **Flask**.  
+- Integrated with a React frontend for a seamless user experience.  
+
 ### 🔹 JNTU Result Analyzer
-**Tech Stack:** React, Redux, REST API
-- Built an interactive platform for student performance analysis with detailed reports.
-- Integrated RESTful APIs to fetch and analyze academic records.
+**Tech Stack:** React, Redux, REST API  
+- Built an interactive platform for student performance analysis with detailed reports.  
+- Integrated RESTful APIs to fetch and analyze academic records.  
 
 ### 🔹 Women Safety Application
-**Tech Stack:** Java, Firebase
-- Developed an emergency safety app that sends real-time location and alerts to pre-selected contacts.
-- Integrated Firebase for authentication and real-time data storage.
+**Tech Stack:** Java, Firebase  
+- Developed an emergency safety app that sends real-time location and alerts to pre-selected contacts.  
+- Integrated Firebase for authentication and real-time data storage.  
 
 ### 🔹 Brain Tumor Detection
-**Tech Stack:** Python, YOLO
-- Implemented a deep learning model for detecting brain tumors with **90% accuracy**.
-- Used automated preprocessing techniques like resizing, normalization, and data augmentation.
+**Tech Stack:** Python, YOLO  
+- Implemented a deep learning model for detecting brain tumors with **90% accuracy**.  
+- Used automated preprocessing techniques like resizing, normalization, and data augmentation.  
 
 ### 🔹 Real-Time Chat Application
-**Tech Stack:** Spring Boot, React, WebSocket
-- Built a scalable **real-time chat application** supporting multiple chat rooms.
-- Ensured seamless communication using WebSocket protocols.
+**Tech Stack:** Spring Boot, React, WebSocket  
+- Built a scalable **real-time chat application** supporting multiple chat rooms.  
+- Ensured seamless communication using WebSocket protocols.  
 
 ---
 
 ### 🏅 Achievements
-- 🏆 **First Prize** in **state-level Project Expo** at Surjana Tech Fest
-- 🎉 **Google Summer of Code 2023 Contributor**
-- 🏆 **Institute Rank #3** on **GeeksforGeeks**
-- 📜 **Published journal article** on **Women’s Safety Solution**
+- 🏆 **First Prize** in **state-level Project Expo** at Surjana Tech Fest  
+- 🎉 **Google Summer of Code 2023 Contributor**  
+- 🏆 **Institute Rank #3** on **GeeksforGeeks**  
+- 📜 **Published journal article** on **Women’s Safety Solution**  
 
 ---
 
 ## ⚡ Connect with Me
 
-- 💼 LinkedIn: [Vikas Pal](https://www.linkedin.com/in/vikas-pal-b91067254/)
-- 📸 Instagram: [mr_maddy.786](https://www.instagram.com/mr_maddy.786/)
-- 🌐 Website: [Vikas Pal](https://vikas83.netlify.app/)
+- 💼 LinkedIn: [Vikas Pal](https://www.linkedin.com/in/vikas-pal-b91067254/)  
+- 📸 Instagram: [mr_maddy.786](https://www.instagram.com/mr_maddy.786/)  
+- 🌐 Website: [Vikas Pal](https://vikas83.netlify.app/)  
 
 ---
 
@@ -87,7 +93,6 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vikas83pal&&style=flat-square" />
