@@ -38,11 +38,12 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 
 ## 🚀 Projects
 
-### 🔹 AI-Powered Chatbot
+### 🔹 Automated-Script-Generation-ML
 **Tech Stack:** Python, Hugging Face Transformers, Flask, Ngrok  
 - Built a chatbot using **GPT-2** and fine-tuned it with a custom dataset.  
 - Deployed the backend on **Hugging Face Spaces** and exposed an API using **Flask**.  
-- Integrated with a React frontend for a seamless user experience.  
+- Integrated with a React frontend for a seamless user experience.
+  ![Visit](https://huggingface.co/spaces/vikas83/bert-text-generator)
 
 ### 🔹 JNTU Result Analyzer
 **Tech Stack:** React, Redux, REST API  
