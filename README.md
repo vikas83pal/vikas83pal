@@ -6,13 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-0abde3?style=flat-square&logo=google-chrome&logoColor=white)](https://vikas83.netlify.app/)
 
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="hacker gif" width="600"/>
-</div>
-
----
 
 ## 👤 About Me
 
@@ -112,7 +106,7 @@ Hi there! I'm **Vikas Pal**, a passionate developer from Telangana, India.
 ### 🏅 Achievements
 - 🏆 **First Prize** in **state-level Project Expo** at Surjana Tech Fest  
 - 🎉 **Google Summer of Code 2023 Contributor**  
-- 🏆 **Institute Rank #3** on **GeeksforGeeks**  
+- 🏆 **Institute Rank #2** on **GeeksforGeeks**  
 - 📜 **Published journal article** on **Women’s Safety Solution**  
 - 🎓 **M.Tech student** with a focus on AI/ML and Full-Stack Development
 
