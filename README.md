@@ -94,7 +94,7 @@ Communication:   WebSocket, REST API, Kafka Streams
 ✔ 1st Prize - State-level Project Expo @ Surjana Tech Fest  
 ✔ Institute Rank #2 - GeeksforGeeks Coding Challenge  
 ✔ Published Research on Women’s Safety Solutions  
-✔ Currently pursuing M.Tech focusing on AI/ML & Full-Stack Dev  
+  
 ```
 
 ---
