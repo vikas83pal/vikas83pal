@@ -90,7 +90,14 @@ _Developer Collaboration Network_
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/vikas83pal/vikas83pal/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikas83pal/vikas83pal/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikas83pal/vikas83pal/output/github-contribution-grid-snake-dark.gif" alt="snake gif"/>
+</p>
+
 
 
 
