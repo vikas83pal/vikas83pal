@@ -67,14 +67,27 @@ _Developer Collaboration Network_
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikas83pal&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
-</p>
 
-✔ Google Summer of Code 2023 Contributor  
-✔ 🥇 1st Prize — State-level Project Expo  
-✔ Institute Rank #2 — GeeksforGeeks Coding Challenge  
-✔ 📜 Published Research on Women’s Safety  
+
+
+
+🎯 Achievements Unlocked
+
+
+- 🕶️ Google Summer of Code 2023 — Open Source Agent 🛠️
+- 🥇 State-level Project Expo Winner — Code Dominator ⚡
+- 👾 Institute Rank #2 — GeeksforGeeks Coding Ops 🚀
+- 📜 Published Research — Women’s Safety Defender 🔐
+- 🔥 300+ Problems Solved — LeetCode Cyber Warrior 🧑‍💻
+- ⚔️ Hackathon Battles — AI/ML Ninja 🤖
+- 🛰️ IIT Hyderabad Intern — Code Intelligence Intern: AI/ML code & vulnerability encodings.
+- 💀 Bug Hunter Mode — CWE Vulnerability Slayer 🕵️
+- 💻 DevMatch Creator — Connecting Hackers & Builders 🌐
+- 🚨 Women’s Safety System — Real-time Guardian Protocol 🛡️
+
+
+
+
 
 ---
 
@@ -88,9 +101,16 @@ _Developer Collaboration Network_
 
 ---
 
-## 🐍 Contribution Snake
+##  Competitive Programming
 
-![snake gif](https://github.com/vikas83pal/vikas83pal/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/thevikas?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" height="280" />
+  <a href="https://www.geeksforgeeks.org/user/vikas83pal/">
+    <img src="https://gfgstatscard.vercel.app/vikas83pal?theme=dark" alt="GFG Stats" height="280" />
+  </a>
+</div>
+
 
 
 
@@ -110,3 +130,5 @@ _Developer Collaboration Network_
 > vulnerabilities: none found
 > mission: always coding ⚡
 ```
+
+💡 "Hack the code, not the system. 🚀"
