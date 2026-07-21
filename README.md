@@ -1,146 +1,261 @@
+<div align="center">
+
 # Hi, I'm Vikas Pal 👋
 
-### Software Engineer | C++ | Spring Boot | System Design | Applied Machine Learning
+### Software Engineer • Backend & Distributed Systems • C++ • Java • Spring Boot • Quantitative Engineering • AI/ML
 
-I build high-performance backend systems, solve complex algorithmic problems, and develop AI-powered applications with a strong focus on production-ready software.
+<p>
+  <a href="https://github.com/vikas83pal"><img src="https://img.shields.io/github/followers/vikas83pal?label=Followers&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vikas-pal-b91067254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vikas83pal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
-Currently, my primary interests are:
+*"Building scalable backend systems, solving algorithmic problems, and engineering high-performance software."*
 
-* ⚡ High-performance backend engineering with **C++** and **Spring Boot**
-* 🏗️ Scalable **System Design** and distributed systems
-* 📈 **Quantitative Engineering** and algorithmic problem solving
-* 🤖 **Applied Machine Learning** for real-world applications
-* 🌍 Open Source and developer tools
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-* C++
-* Java
-* Python
-* JavaScript
-* SQL
-
-### Backend
-
-* Spring Boot
-* REST APIs
-* Microservices
-* Flask
-
-### System Design
-
-* Distributed Systems
-* Caching
-* Load Balancing
-* Message Queues
-* Database Design
-* API Design
-
-### Machine Learning
-
-* TensorFlow
-* Scikit-learn
-* PyTorch
-* Computer Vision
-* NLP
-* Model Deployment
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-
-### DevOps & Cloud
-
-* Docker
-* Kubernetes
-* Git
-* GitHub Actions
-* Linux
+</div>
 
 ---
 
-# 🎯 Current Focus (2026)
+## 👨‍💻 About Me
 
-* Mastering advanced **C++** for low-latency systems
-* Building production-grade applications with **Spring Boot**
-* Deep diving into **System Design** and distributed architecture
-* Learning **Quantitative Development** concepts
-* Applying Machine Learning to solve practical engineering problems
-* Contributing to impactful Open Source projects
+I'm a Software Engineer passionate about building **scalable backend systems**, **distributed applications**, and **performance-oriented software**.
 
----
+My interests lie at the intersection of:
 
-# 📌 Featured Projects
+- ⚡ Backend Engineering
+- 🏗️ Distributed Systems
+- 🚀 High-Performance Computing
+- 📈 Quantitative Software Engineering
+- 🧠 Applied Machine Learning
+- 🌍 Open Source
 
-### 🚀 AI-Powered Script Generation
-
-Production-ready application that generates structured scripts using modern NLP techniques and LLM workflows.
-
-**Tech:** Python • Flask • Transformers
+I enjoy designing systems that are reliable, efficient, and built for scale while continuously improving my expertise in algorithms, system design, and low-latency engineering.
 
 ---
 
-### 🧠 Brain Tumor Detection
+# 🏆 Highlights
 
-Deep learning pipeline for MRI image classification with optimized preprocessing and inference.
-
-**Tech:** TensorFlow • OpenCV • Python
-
----
-
-### 👩‍💻 Women Safety Platform
-
-Real-time emergency response application with location sharing and alert notifications.
-
-**Tech:** Spring Boot • React • MongoDB
+- 🌍 **Google Summer of Code 2023 Contributor**
+- 🧠 **Research Intern — IIT Hyderabad**
+- 🏅 **Flipkart GRID 7.0 Semi-Finalist**
+- 💻 **700+ DSA Problems Solved**
+- 🏆 **Top 10 Institute Rank — GeeksforGeeks**
+- 🥇 District-Level Innovation Winner
+- 🥈 State-Level Innovation Runner-up
 
 ---
 
-### 💬 Real-Time Chat Application
+# 🚀 Tech Stack
 
-Scalable WebSocket-based messaging platform supporting concurrent users.
+## Languages
 
-**Tech:** Spring Boot • WebSockets • React
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,c" />
+</p>
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+</p>
+
+- Spring Boot
+- REST APIs
+- Microservices
+- WebSockets
+- JWT Authentication
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+---
+
+## AI / Machine Learning
+
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- NumPy
+- Pandas
+- YOLOv8
+- Computer Vision
+- NLP
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux" />
+</p>
+
+---
+
+# 🏗️ Core Expertise
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Algorithms & Data Structures
+- Object-Oriented Design
+- Database Design
+- API Design
+- Performance Optimization
+- Concurrent Programming
+- Low-Latency Systems
+- Quantitative Software Engineering
+
+---
+
+# 🎯 Current Focus
+
+- Mastering **Modern C++**
+- Building production-grade backend applications with **Spring Boot**
+- Deep-diving into **Distributed Systems**
+- Studying **Low-Latency System Design**
+- Learning **Quantitative Development**
+- Exploring **Financial Markets & Trading Infrastructure**
+- Contributing to impactful Open Source projects
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered Script Generation
+
+Production-ready LLM application for generating structured scripts using modern NLP workflows.
+
+**Tech Stack**
+
+Python • Flask • Transformers • Hugging Face
+
+---
+
+## 🧠 Brain Tumor Detection
+
+Deep learning application for MRI image classification with optimized preprocessing and inference.
+
+**Tech Stack**
+
+TensorFlow • OpenCV • Python
+
+---
+
+## 👩‍💻 Women Safety Platform
+
+Real-time emergency response platform featuring live location tracking and instant notifications.
+
+**Tech Stack**
+
+Spring Boot • React • MongoDB
+
+---
+
+## 💬 Real-Time Chat Application
+
+Scalable WebSocket-powered messaging application supporting concurrent users.
+
+**Tech Stack**
+
+Spring Boot • WebSockets • React
+
+---
+
+## 📊 JNTUH Results Analyzer
+
+A full-stack analytics platform for analyzing academic results with interactive dashboards and semester-wise insights.
+
+**Tech Stack**
+
+Next.js • Flask • Python • Pandas
 
 ---
 
 # 💻 Competitive Programming
 
-I enjoy solving algorithmic challenges and continuously improving problem-solving skills.
-
-* 500+ DSA Problems Solved
-* Strong focus on Graphs, DP, Trees, and Advanced Data Structures
-* Regular practice in C++
+- ✅ 700+ Problems Solved
+- ✅ Strong Algorithmic Foundation
+- ✅ Graph Algorithms
+- ✅ Dynamic Programming
+- ✅ Trees & Advanced Data Structures
+- ✅ Competitive Programming in C++
 
 ---
 
 # 📚 Areas of Interest
 
-* System Design
-* Backend Engineering
-* Distributed Systems
-* C++
-* Spring Boot
-* Applied Machine Learning
-* Quantitative Development
-* Performance Engineering
-* Algorithms & Data Structures
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Quantitative Software Engineering
+- Low-Latency Computing
+- High-Performance Computing
+- C++
+- Spring Boot
+- Machine Learning
+- Open Source
+- Performance Engineering
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Stats
 
-* 🌐 Portfolio: https://vikas83.netlify.app
-* 💼 LinkedIn: https://www.linkedin.com/in/vikas-pal-b91067254/
-* 📧 Email: [vikas83pal@gmail.com](mailto:vikas83pal@gmail.com)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas83pal&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas83pal&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas83pal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-> *"Build systems that scale, write code that lasts, and solve problems that matter."*
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vikas-pal-b91067254/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vikas83pal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://vikas83.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Build systems that scale. Engineer software that performs. Solve problems that matter."*
+
+⭐ **Open to Backend Engineering, Distributed Systems, Quantitative Engineering, and AI/ML opportunities.**
+
+</div>
